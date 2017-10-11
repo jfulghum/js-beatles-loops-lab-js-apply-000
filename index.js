@@ -18,7 +18,7 @@ function iLoveTheBeatles(num){
   var times = [];
   do {
     times.push("I love the Beatles!");
-    num ++;
+    num++;
   } while (num < 15);
   return times;
 }
